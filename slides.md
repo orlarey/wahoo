@@ -25,7 +25,7 @@ toc: false
 
 # Faust example
 
-![](examples/ex1.pdf)
+![](examples/wahoo.pdf)
 
 
 
