@@ -1,13 +1,9 @@
 # Waaahooo
-A sound module that produces *waaahoooo* !
+Un petit module sonore qui fait *waaahoooo*. Scanner le QR code avec votre téléphone pour jouer avec.
 
-[![](images/wahoo-gui.png)](https://faustide.grame.fr/?autorun=1&code=https://raw.githubusercontent.com/orlarey/wahoo/master/examples/wahoo.dsp)
+[![](images/wahoo.png)](https://faustide.grame.fr/?autorun=1&code=https://raw.githubusercontent.com/orlarey/wahoo/master/examples/wahoo.dsp)
 
-To try it, scan the QRCode :
-
-![](images/qrcode-wahoo.png)
-
-or enter the url :
+Sinon vous pouvez utiliser cette URL depuis un ordinateur :
 
 [https://faustide.grame.fr/?autorun=1&code=https://raw.githubusercontent.com/orlarey/wahoo/master/examples/wahoo.dsp](https://faustide.grame.fr/?autorun=1&code=https://raw.githubusercontent.com/orlarey/wahoo/master/examples/wahoo.dsp)
 
